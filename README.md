@@ -81,6 +81,13 @@ sls deploy
 ```
 ### 7. Usage
 ```
+# deploy usage
+METHOD : GET
+URL : https://[your-amazon-lambda-endpoint]/dev/login/kakao
+URL : https://[your-amazon-lambda-endpoint]/dev/login/facebook
+URL : https://[your-amazon-lambda-endpoint]/dev/login/google
+URL : https://[your-amazon-lambda-endpoint]/dev/login/naver
+
 # local api-docs
 http://localhost:3000/app/api-docs
 ```
