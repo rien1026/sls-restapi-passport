@@ -91,4 +91,3 @@ URL : https://[your-amazon-lambda-endpoint]/dev/login/naver
 # local api-docs
 http://localhost:3000/app/api-docs
 ```
-#### POSTMAN Example
